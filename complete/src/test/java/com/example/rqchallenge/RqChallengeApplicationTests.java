@@ -1,4 +1,4 @@
-package com.example.accessingdatamysql;
+package com.example.rqchallenge;
 
 import org.junit.jupiter.api.Test;
 import org.testcontainers.containers.MySQLContainer;
