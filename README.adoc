@@ -5,10 +5,10 @@
 :toc:
 :icons: font
 :source-highlighter: prettify
-:project_id: gs-accessing-data-mysql
+:project_id: java-employee-challenge
 :java_version: 17
 :build_system: gradle
-:build_name: accessing-data-mysql
+:build_name: java-employee-challenge
 :build_version: 0.0.1-SNAPSHOT
 :network_container: guide-mysql
 
